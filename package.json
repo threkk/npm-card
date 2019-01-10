@@ -1,5 +1,5 @@
 {
-  "name": "npm-card",
+  "name": "threkk",
   "version": "1.0.0",
   "description": "NPM based business card",
   "main": "bin/index.js",
