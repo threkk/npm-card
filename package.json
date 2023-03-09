@@ -2,9 +2,8 @@
   "name": "threkk",
   "version": "1.0.0",
   "description": "NPM based business card",
-  "main": "bin/index.js",
   "repository": "https://github.com/threkk/npm-card",
-  "author": "Alberto Martinez de Murga Ramirez <alberto@threkk.com>",
+  "author": "Alberto de Murga <alberto@threkk.com>",
   "license": "MIT",
   "private": false,
   "main": "./lib/card.js",
@@ -13,5 +12,9 @@
     "boxen": "^2.1.0",
     "chalk": "^2.4.2",
     "commander": "^2.19.0"
-  }
+  },
+  "files": [
+    "./bin",
+    "./lib"
+    ]
 }
