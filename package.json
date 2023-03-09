@@ -1,6 +1,6 @@
 {
   "name": "threkk",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "NPM based business card",
   "repository": "https://github.com/threkk/npm-card",
   "author": "Alberto de Murga <alberto@threkk.com>",
@@ -16,5 +16,5 @@
   "files": [
     "./bin",
     "./lib"
-    ]
+  ]
 }
